@@ -1,0 +1,27 @@
+{
+  "name": "suitcss-utils-space",
+  "version": "0.1.2",
+  "description": "Utility classes for low-level CSS spacing traits",
+  "main": "space.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VinSpee/suitcss-utils-space.git"
+  },
+  "keywords": [
+    "browser",
+    "css-utilities",
+    "space",
+    "spacing",
+    "suitcss",
+    "style"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinSpee/suitcss-utils-space/issues"
+  },
+  "homepage": "https://github.com/VinSpee/suitcss-utils-space"
+}
