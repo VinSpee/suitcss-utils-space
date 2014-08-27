@@ -6,9 +6,7 @@ Read more about [SUIT's design principles](https://github.com/necolas/suit/).
 
 ## Installation
 
-* [Bower](http://bower.io/): `bower install --save suit-utils-space`
-* Download: [zip](https://github.com/necolas/suit-utils-space/zipball/master)
-* Git: `git clone https://github.com/necolas/suit-utils-space.git`
+* npm: `npm install --save suit-utils-space`
 
 ## Available classes
 
@@ -28,18 +26,22 @@ Where direction (`D`) can be:
 And size (`s`) can be:
 
 * `n` - none
+* `b` - baby
 * `s` - small
 * `m` - medium
 * `l` - large
+* `g` - gigantic
 
 ## Usage
 
+available vars:
+
+```
+	--space-n: 0;
+	--space-b: .125rem;
+	--space-s: .25rem;
+	--space-m: .5rem;
+	--space-l: 1rem;
+	--space-g: 1.5rem;
+```
 Please refer to the README for [SUIT utils](https://github.com/necolas/suit-utils/)
-
-## Browser support
-
-* Google Chrome (latest)
-* Opera (latest)
-* Firefox 4+
-* Safari 5+
-* Internet Explorer 8+
