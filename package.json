@@ -1,6 +1,6 @@
 {
   "name": "suitcss-utils-space",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Utility classes for low-level CSS spacing traits",
   "style": "index.css",
   "files": [
