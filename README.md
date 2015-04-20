@@ -6,7 +6,7 @@ Read more about [SUIT's design principles](https://github.com/necolas/suit/).
 
 ## Installation
 
-* npm: `npm install --save suit-utils-space`
+* npm: `npm install --save suitcss-utils-space`
 
 ## Available classes
 
