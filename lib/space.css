@@ -142,3 +142,135 @@
 .u-marginRm { margin-right: var(--space-m) !important; }
 .u-marginRl { margin-right: var(--space-l) !important; }
 .u-marginRg { margin-right: var(--space-g) !important; }
+
+/* negative */
+
+.u-marginBgN {
+  margin-bottom: calc(0 - var(--ms3)) !important;
+}
+
+.u-marginBlN {
+  margin-bottom: calc(0 - var(--ms1)) !important;
+}
+
+.u-marginBmN {
+  margin-bottom: calc(0 - var(--ms0)) !important;
+}
+
+.u-marginBsN {
+  margin-bottom: calc(0 - var(--ms-1)) !important;
+}
+
+.u-marginBbN {
+  margin-bottom: calc(0 - var(--ms-3)) !important;
+}
+
+.u-marginTgN {
+  margin-top: calc(0 - var(--ms3)) !important;
+}
+
+.u-marginTlN {
+  margin-top: calc(0 - var(--ms1)) !important;
+}
+
+.u-marginTmN {
+  margin-top: calc(0 - var(--ms0)) !important;
+}
+
+.u-marginTsN {
+  margin-top: calc(0 - var(--ms-1)) !important;
+}
+
+.u-marginTbN {
+  margin-top: calc(0 - var(--ms-3)) !important;
+}
+
+.u-marginVgN {
+  margin-top: calc(0 - var(--ms3)) !important;
+  margin-bottom: calc(0 - var(--ms3)) !important;
+}
+
+.u-marginVlN {
+  margin-top: calc(0 - var(--ms1)) !important;
+  margin-bottom: calc(0 - var(--ms1)) !important;
+}
+
+.u-marginVmN {
+  margin-top: calc(0 - var(--ms0)) !important;
+  margin-bottom: calc(0 - var(--ms0)) !important;
+}
+
+.u-marginVsN {
+  margin-top: calc(0 - var(--ms-1)) !important;
+  margin-bottom: calc(0 - var(--ms-1)) !important;
+}
+
+.u-marginVbN {
+  margin-top: calc(0 - var(--ms-3)) !important;
+  margin-bottom: calc(0 - var(--ms-3)) !important;
+}
+
+.u-marginHgN {
+  margin-left: calc(0 - var(--ms3)) !important;
+  margin-right: calc(0 - var(--ms3)) !important;
+}
+
+.u-marginHlN {
+  margin-left: calc(0 - var(--ms1)) !important;
+  margin-right: calc(0 - var(--ms1)) !important;
+}
+
+.u-marginHmN {
+  margin-left: calc(0 - var(--ms0)) !important;
+  margin-right: calc(0 - var(--ms0)) !important;
+}
+
+.u-marginHsN {
+  margin-left: calc(0 - var(--ms-1)) !important;
+  margin-right: calc(0 - var(--ms-1)) !important;
+}
+
+.u-marginHbN {
+  margin-left: calc(0 - var(--ms-3)) !important;
+  margin-right: calc(0 - var(--ms-3)) !important;
+}
+
+.u-marginLgN {
+  margin-left: calc(0 - var(--ms3)) !important;
+}
+
+.u-marginLlN {
+  margin-left: calc(0 - var(--ms1)) !important;
+}
+
+.u-marginLmN {
+  margin-left: calc(0 - var(--ms0)) !important;
+}
+
+.u-marginLsN {
+  margin-left: calc(0 - var(--ms-1)) !important;
+}
+
+.u-marginLbN {
+  margin-left: calc(0 - var(--ms-3)) !important;
+}
+
+.u-marginRgN {
+  margin-right: calc(0 - var(--ms3)) !important;
+}
+
+.u-marginRlN {
+  margin-right: calc(0 - var(--ms1)) !important;
+}
+
+.u-marginRmN {
+  margin-right: calc(0 - var(--ms0)) !important;
+}
+
+.u-marginRsN {
+  margin-right: calc(0 - var(--ms-1)) !important;
+}
+
+.u-marginRbN {
+  margin-right: calc(0 - var(--ms-3)) !important;
+}
